@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloAndroid2</string>
+    <string name="contact">2465 Latham St.\nMountain View, CA 94043\n\n650-555-5555\nwww.udacity.com</string>
 </resources>
